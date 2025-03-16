@@ -41,7 +41,6 @@ next-env.d.ts
 packages/stripe-app/.build/*
 .react-email
 .contentlayer
-.vscode
 *.csv
 *.ndjson
 .vitest
